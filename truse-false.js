@@ -11,6 +11,9 @@ akhanel condition age > 0 dile true asbe abar just age dile o hobe */
 // null hole ata o false asbe 
 //NaN ata false asbe .
 
+// truthy 
+// '0', " ", {}, [] agola hoche true value asbe.
+
 if(age){
     console.log("condition is true");
 }else{
